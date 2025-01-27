@@ -1,0 +1,11 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+brocks/__init__.py
+brocks/module1.py
+brocks/module2.py
+brocks.egg-info/PKG-INFO
+brocks.egg-info/SOURCES.txt
+brocks.egg-info/dependency_links.txt
+brocks.egg-info/top_level.txt
