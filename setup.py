@@ -10,6 +10,12 @@ setup(
     install_requires=[
         # أضف المكتبات التي تعتمد عليها، مثلاً:
         'PyQt5'
+        'sys'
+        'time'
+        'PyQt5.QtWidgets'
+        'PyQt5.QtCore'
+        'PyQt5.QtGui'
+        'PyQt5.QtWidgets'
     ],
     author='Omar Dev',
     author_email='omargaminghanud12@gmail.com',
