@@ -8,4 +8,5 @@ brocks/module2.py
 brocks.egg-info/PKG-INFO
 brocks.egg-info/SOURCES.txt
 brocks.egg-info/dependency_links.txt
+brocks.egg-info/requires.txt
 brocks.egg-info/top_level.txt

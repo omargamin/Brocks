@@ -1,7 +1,7 @@
 Metadata-Version: 2.2
 Name: brocks
 Version: 1.0
-Summary: GUI/UI Maker LIBARY For Python
+Summary: GUI/UI Maker Library For Python
 Home-page: https://github.com/omargamin/Brocks
 Author: Omar Dev
 Author-email: omargaminghanud12@gmail.com
@@ -10,14 +10,16 @@ Classifier: Programming Language :: Python :: 3.7
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Operating System :: OS Independent
 Requires-Python: >=3.6
-Description-Content-Type: markdown
+Description-Content-Type: text/markdown
 License-File: LICENSE.md
+Requires-Dist: PyQt5systimePyQt5.QtCorePyQt5.QtGuiPyQt5.QtWidgets
 Dynamic: author
 Dynamic: author-email
 Dynamic: classifier
 Dynamic: description
 Dynamic: description-content-type
 Dynamic: home-page
+Dynamic: requires-dist
 Dynamic: requires-python
 Dynamic: summary
 
