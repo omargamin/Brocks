@@ -7,12 +7,15 @@ setup(
     name='brocks',
     version='1.0',
     packages=find_packages(),
-    install_requires=[],
+    install_requires=[
+        # أضف المكتبات التي تعتمد عليها، مثلاً:
+        'PyQt5'
+    ],
     author='Omar Dev',
     author_email='omargaminghanud12@gmail.com',
-    description='GUI/UI Maker LIBARY For Python',
+    description='GUI/UI Maker Library For Python',
     long_description=long_description,
-    long_description_content_type='markdown',
+    long_description_content_type='text/markdown',  # تم التصحيح هنا
     url='https://github.com/omargamin/Brocks',
     classifiers=[
         'Programming Language :: Python :: 3',
